@@ -25,7 +25,7 @@ me = Hossein()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM0ZGI5NjdhNGY5NjhjNzk5NjI0ZDNlNzg1NzRjZmJlNWE1YTU5OCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 ### 🛡️ My Expertise:
 - 🐍 **Python Development**: From scripting to security tools development
@@ -103,3 +103,7 @@ me.say_hi()
   **⭐ If you like my projects, please give them a star! ⭐**
   
 </div>
+
+---
+
+**Note:** Replace `YOUR_REPO_NAME` with your actual repository names in the Featured Projects section.
