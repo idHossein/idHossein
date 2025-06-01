@@ -103,7 +103,3 @@ me.say_hi()
   **⭐ If you like my projects, please give them a star! ⭐**
   
 </div>
-
----
-
-**Note:** Replace `YOUR_REPO_NAME` with your actual repository names in the Featured Projects section.
