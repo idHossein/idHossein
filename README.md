@@ -43,41 +43,12 @@ me.say_hi()
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossein&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hossein&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
   ![Trophy](https://github-profile-trophy.vercel.app/?username=Hossein&theme=matrix&no-frame=true&no-bg=true&column=7)
   
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossein&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hossein&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)](https://github.com/Hossein/YOUR_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hossein&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)](https://github.com/Hossein/YOUR_REPO_NAME)
-
 </div>
 
 ## 💡 Favorite Quote
@@ -100,10 +71,4 @@ me.say_hi()
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
   
-  **⭐ If you like my projects, please give them a star! ⭐**
-  
 </div>
-
----
-
-**Note:** Replace `YOUR_REPO_NAME` with your actual repository names in the Featured Projects section.
