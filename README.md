@@ -43,14 +43,6 @@ me.say_hi()
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Hossein&theme=matrix&no-frame=true&no-bg=true&column=7)
-  
-</div>
-
 ## 💡 Favorite Quote
 
 <div align="center">
